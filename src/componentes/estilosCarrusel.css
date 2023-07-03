@@ -1,0 +1,13 @@
+.asideCarrusel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+    border: solid 2px red;
+}
+.renderListaGeneros{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(54, 54, 136);
+}
